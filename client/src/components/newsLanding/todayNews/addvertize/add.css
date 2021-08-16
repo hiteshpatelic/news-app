@@ -1,0 +1,9 @@
+
+.addbanner{
+    border: 0.5px solid #00008069;
+    width: 220px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}

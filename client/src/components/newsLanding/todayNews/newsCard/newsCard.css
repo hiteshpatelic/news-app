@@ -1,0 +1,49 @@
+.newscard{
+    width: 550px;
+    margin: 10px ;
+    overflow: hidden;
+    border: 0.5px solid #000080a9;
+}
+.newscard *{
+    margin: 0;
+}
+.newscard .image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+}
+.newscard .image img{
+    width: 550px;
+}
+.newscard .newsTitle{
+    background-color: #111111;
+    padding: 10px;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    color: white;
+}
+.newscard .newsdetail{
+    padding: 10px;
+    position: relative;
+    max-height: 100px;
+    overflow: hidden;
+}
+.newscard .newsdetail p{
+    font-weight: 500;
+    min-height: 100px;
+    font-size: 15px;
+    text-align: justify;
+}
+.newscard .newsdetail .readmore{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+}
+.readmore button{
+    background-color: #000080;
+    color: white;
+    letter-spacing: 1px;
+}

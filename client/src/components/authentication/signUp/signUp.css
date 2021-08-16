@@ -1,0 +1,18 @@
+.signup{
+    background-color: #000080;
+    color: white;
+    padding: 20px;
+}
+.signup .input, .signup .button{
+    margin: 10px 0;
+    padding: 10px;
+}
+.signup .input input{
+    width: 82%;
+}
+.signup .button button{
+    width: 100%;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}

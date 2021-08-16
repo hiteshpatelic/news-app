@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000080;
+    color: white;
+    padding: 15px 55px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+  }
+.navbar .link{
+    color: white;
+}
+.navbar *{
+    margin: 0;
+}
+.navbar .logo{
+    letter-spacing: 2px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.navbar .navlist ul li{
+    display: inline;
+    padding: 10px 20px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.navbar .navlist ul li 
+a {
+    color: #FFF;
+    text-decoration: none;
+    transition: 0.2s;
+}
+   
+.navbar .navlist ul li:hover, .navbar .navlist ul li a:hover{
+    background-color: white;
+    color: #000080;
+}

@@ -1,0 +1,24 @@
+.sidecard{
+    width: 350px;
+    height: 100px;
+    border: 0.5px solid #000080a9;
+    overflow: hidden;
+    display: flex;
+    transition: 0.2s;
+    cursor: pointer;
+    margin: 10px 0;
+}
+.sidecard:hover{
+    box-shadow: 0px 0px 5px 0px #000080;
+} 
+.sidecard .leftthumb{
+    display: flex;
+    align-items: center;
+}
+.sidecard img{
+    width: 100px;
+    padding-right: 10px;
+}
+.sidecard p{
+    align-items: flex-start;
+}

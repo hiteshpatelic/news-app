@@ -1,0 +1,13 @@
+
+.editpost{
+    margin: 50px 0;
+    padding: 30px;
+    background-color: #000080;
+    color: white;
+}
+.editpost h1{
+    margin: 10px 0;
+}
+.editpost .input textarea{
+    width: 87%;
+}

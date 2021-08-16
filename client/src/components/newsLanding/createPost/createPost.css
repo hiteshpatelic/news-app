@@ -1,0 +1,12 @@
+.createpost{
+    margin: 50px 0;
+    padding: 30px;
+    background-color: #000080;
+    color: white;
+}
+.createpost h1{
+    margin: 10px 0;
+}
+.createpost .input textarea{
+    width: 87%;
+}

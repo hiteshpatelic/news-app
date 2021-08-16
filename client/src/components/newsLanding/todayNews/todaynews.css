@@ -1,0 +1,8 @@
+.todaynews{
+    width: 90%;
+    margin: auto;
+    padding:50px 100px; 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
