@@ -1,5 +1,9 @@
 # completed part - user authentication node and validation form
 
+### schema & validation - using joi
+### making API- using express
+### fetchData -using axios
+
 ### News app
 
 still in creation phase
