@@ -1,3 +1,5 @@
+# completed part - user authentication node and validation form
+
 ### News app
 
 still in creation phase
